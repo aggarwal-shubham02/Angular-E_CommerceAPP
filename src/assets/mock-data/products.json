@@ -1,44 +1,44 @@
 [
   {
-    "title": "aggarwal cloth",
-    "brand": "Kiriko",
-    "price": 40,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "blue-stripe-stoneware-plate.jpg"
+    "title": "Smart Android Phone",
+    "brand": "OnePlus",
+    "price": 500,
+    "description": "One plus 6T smart phone in affordable range.The mobile does not lag performance-wise as it is equipped with Quad core, 2.5 GHz and comes with 3 GB of RAM and 16 GB of inbuilt storage",
+    "image": "mobile.jpg"
   },
   {
-    "title": "Hand Painted Blue Flat Dish",
-    "brand": "Kiriko",
-    "price": 28,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
-    "image": "hand-painted-blue-flat-dish.jpg"
+    "title": "Study Material of UPSC Aspirants",
+    "brand": "Nagarro",
+    "price": 280,
+    "description": "A Complete study materil pacakge for true UPSC Aspirants",
+    "image": "book.jpg"
   },
   {
-    "title": "Heme",
-    "brand": "Dust & Form",
+    "title": "Oximeter",
+    "brand": "Zebaronics",
     "price": 52,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget arcu. Curabitur ac pharetra nisl, sit amet mattis dolor.",
-    "image": "heme.jpg"
+    "description": "It is a quick device that displays the results on the screen in a few seconds",
+    "image": "oxometer.jpg"
   },
   {
-    "title": "Mashiko-Yaki Green Small Plate",
-    "brand": "Kiriko",
+    "title": "Smart Laptops",
+    "brand": "DELL",
+    "price": 800,
+    "description": "Dell Inspiron is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a APU Quad Core A6 processor and it comes with 8GB of RAM. The Dell Inspiron packs 1TB of HDD storage.",
+    "image": "laptop.jpg"
+  },
+  {
+    "title": "Covishield",
+    "brand": "Serem Institute",
     "price": 28,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "mashiko-yaki-green-small-plate.jpg"
+    "description": "Now vaccine availabe at your home door.Stay safe and stay protected",
+    "image": "vaccine.jpg"
   },
   {
-    "title": "Mashiko-Yaki Indigo Small Plate",
-    "brand": "Kiriko",
-    "price": 28,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "mashiko-yaki-indigo-small-plate.jpg"
-  },
-  {
-    "title": "Mashiko-Yaki Saucer",
-    "brand": "Kiriko",
+    "title": "Lee Cooper Full Sleves T shirts",
+    "brand": "Lee Cooper",
     "price": 18,
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at purus pulvinar, placerat turpis ac, interdum metus. In eget massa sed enim hendrerit auctor a eget.",
-    "image": "mashiko-yaki-saucer.jpg"
+    "description": "All season wear cloth. 100% cotton fabric",
+    "image": "cloth.jpg"
   }
 ]
