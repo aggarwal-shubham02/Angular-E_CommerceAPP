@@ -15,7 +15,7 @@ GitHub link for the source code:
 https://github.com/aggarwal-shubham02/Angular-E_CommerceAPP
 
 Live Demo Link:
-nagarro-shopping-cart.netlify.app
+https://nagarro-shopping-cart.netlify.app/
 
 App hosted on netlify
 
