@@ -14,6 +14,10 @@ Also from the cart he can back go to shopping well ,that is routing is maintaine
 GitHub link for the source code:
 https://github.com/aggarwal-shubham02/Angular-E_CommerceAPP
 
+Live Demo Link:
+nagarro-shopping-cart.netlify.app
+
+App hosted on netlify
 
 
 
